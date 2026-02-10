@@ -28,15 +28,18 @@ https://github.com/saarami/protein-calorie-tracker-ai
 
 ---
 
-### ⚡ Bitaxe Monitor – Mining Device Backend
-Backend monitoring and alerting system for Bitaxe Bitcoin mining devices.
+### ⚡ Bitaxe Monitor – Home Bitcoin Miner Backend
+Backend system for monitoring a **home Bitcoin miner (Bitaxe Gamma 601)**, built as a personal project that started from a hobby and evolved into a full backend system.
+
+The project was designed to make Bitcoin mining **accessible and understandable** for people without deep technical or mining knowledge.
 
 **Highlights**
-- Periodic device polling & telemetry ingestion
-- Redis caching
-- Telegram alerts & notifications
+- REST API built with Python & FastAPI
+- Scheduled data collection from the miner (telemetry & status)
+- Real-time alerts and notifications (Telegram)
+- PostgreSQL for persistent storage
 - Docker-based deployment
-- Designed for reliability and extensibility
+- Simple React + Vite dashboard for visualization and monitoring
 
 🔗 Repository:  
 https://github.com/saarami/bitaxe-monitor
@@ -88,5 +91,5 @@ https://github.com/saarami/bitaxe-monitor
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/saar-amikam/
-- GitHub: https://github.com/saarami
+- Email: Saarami11@gmail.com
+
