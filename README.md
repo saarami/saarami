@@ -11,6 +11,7 @@ Experienced in designing REST APIs, integrating external systems, and deploying 
 
 ### 🥗 Protein Calorie Tracker – Backend REST API
 **Main project**
+A smart and simple nutrition tracker where users can type their meals in free text and instantly get calorie and protein insights, track daily goals, and monitor their progress over time.
 
 A production-ready backend system for calorie and protein tracking, built with a layered architecture and deployed on AWS.
 
