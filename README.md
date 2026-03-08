@@ -9,8 +9,32 @@ Experienced in designing REST APIs, integrating external systems, and deploying 
 
 ## 🚀 Featured Projects
 
+### 🌐 Developer Portfolio – Interactive Web Portfolio
+
+A modern **interactive developer portfolio** built with **React and 3D web technologies**.  
+The website showcases my projects, technical skills, and experience as a **Full-Stack Software Developer** through a visually engaging interface.
+
+**Highlights**
+
+- Interactive **3D hero section** built with **Three.js**
+- Smooth animations using **Framer Motion**
+- Modern responsive UI with **Tailwind CSS**
+- Project showcase with descriptions and links
+- Contact section for recruiters and collaborators
+
+**Tech Stack**
+
+React · Three.js · React Three Fiber · Drei · Tailwind CSS · Framer Motion · Vite
+
+🔗 Repository  
+https://github.com/saarami/portfolio
+
+🌐 Live Website  
+https://saaramikam.dev
+
+---
+
 ### 🥗 Protein Calorie Tracker – Backend REST API
-**Main project**
 
 A smart and simple nutrition tracker that allows users to enter free-text meals and instantly receive calorie and protein insights, track daily goals, and monitor long-term progress — implemented as a production-ready backend system built with a layered architecture and deployed on AWS.
 
