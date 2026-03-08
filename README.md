@@ -1,9 +1,10 @@
 # Saar Amikam
 
-Backend Developer · Python · FastAPI · Cloud & DevOps
+Full-Stack Developer · Python · FastAPI · React · Cloud & DevOps
 
-I build production-grade backend systems with a strong focus on clean architecture, scalability, and automation.
-Experienced in designing REST APIs, integrating external systems, and deploying services to cloud environments using modern DevOps practices.
+I build modern full-stack applications with a strong focus on clean architecture, scalability, and user experience.  
+Experienced in developing backend systems and REST APIs with Python and FastAPI, alongside interactive frontends using React and modern web technologies.  
+I also deploy and manage applications in cloud environments using Docker, CI/CD pipelines, and modern DevOps practices.
 
 ---
 
@@ -16,7 +17,7 @@ The website showcases my projects, technical skills, and experience as a **Full-
 
 **Highlights**
 
-- Interactive **3D hero section** built with **Three.js**
+- Interactive **3D elements and scenes** built with **Three.js** and React Three Fiber
 - Smooth animations using **Framer Motion**
 - Modern responsive UI with **Tailwind CSS**
 - Project showcase with descriptions and links
