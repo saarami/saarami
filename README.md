@@ -116,5 +116,5 @@ https://github.com/saarami/bitaxe-monitor
 
 ## 📫 Contact
 
-- Email: Saarami11@gmail.com
+- Email: contact@saaramikam.dev
 
