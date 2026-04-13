@@ -10,9 +10,9 @@ I also deploy and manage applications in cloud environments using Docker, CI/CD 
 
 ## 🚀 Featured Projects
 
-### 🌐 Developer Portfolio – Interactive Web Portfolio
+### 🌐 Portfolio
 
-A modern **interactive developer portfolio** built with **React and 3D web technologies**.  
+A modern **portfolio** built with **React and 3D web technologies**.  
 The website showcases my projects, technical skills, and experience as a **Full-Stack Software Developer** through a visually engaging interface.
 
 **Highlights**
